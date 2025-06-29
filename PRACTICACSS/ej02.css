@@ -1,0 +1,28 @@
+.inicio{
+    color: #22127a;
+    width: 400px;
+    height: 350px;
+    padding: 20px;
+    text-align: center;
+    overflow: visible;
+    background-color: #e0fa4b;
+    border: 2px solid #29b34b;  }
+.inicio2{
+    color: #bdce24;
+    width:400px;
+    height: 250px;
+    padding: 20px;
+    text-align: center;
+    overflow:hidden ;
+    background-color: #4677e2;
+    border: 2px solid #5e245b;  }
+
+    .inicio3{
+    color: #f5f0f0;
+    padding: 20px;
+    height: 200px;
+    overflow: scroll;
+    width: 500;
+    text-align: center;
+    background-color: #ee2020;
+    border: 2px solid #0f0d0d;  }
