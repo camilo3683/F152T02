@@ -1,0 +1,27 @@
+.parrafo1 {
+    color: #22127a;
+    height: auto;
+    padding: 10px;
+    text-align: center;
+    background-color: #42af66;
+    border: 2px solid #c03535;
+    width:50%;
+}
+.parrafo2 {
+    color: #c02740;
+    height: auto;
+    padding: 10px;
+    text-align: right;
+    background-color: #75b8f0;
+    border: 2px solid #17aa23;
+    width:50%;
+}
+.parrafo3 {
+    color: #29ac24;
+    height: auto;
+    padding: 10px;
+    text-align: left;
+    background-color: #e0fa4b;
+    border: 2px solid #ccc;
+    width:50%;
+}
