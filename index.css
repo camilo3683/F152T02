@@ -1,0 +1,37 @@
+.indice {
+    background-color: #8cd9f0;
+    padding: 100px;
+    border-radius: 15px;
+    width: 350px;
+    margin:0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    text-align: center;
+}
+.datos {
+    margin-bottom: 20px;
+    color: #2a4d69;
+    font-size: 1.1em;
+}
+.indice h1 {
+    color: #040308;
+    margin-bottom: 20px;
+}
+.indice ul {
+    list-style: none;
+    padding: 0;
+}
+.indice li {
+    margin: 15px 0;
+}
+.indice a {
+    text-decoration: none;
+    color: #0e0d0d;
+    background-color: #952daf;
+    padding: 10px 25px;
+    border-radius: 8px;
+    transition: background 0.3s;
+    font-weight: bold;
+}
+.indice a:hover {
+    background-color: #2a4d69;
+}
